@@ -1,2 +1,3 @@
 # hello-world
-Tutorial on how to setup a repository and use it
+Hello to all!!!
+I am a student at ASU looking to begin a career in Information Technology
